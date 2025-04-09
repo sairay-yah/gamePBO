@@ -1,11 +1,13 @@
 # gamePBO - MAGIC FOREST
 Game petualangan sederhana berbasis teks
 
-untuk memulai petualangan, masukkan nama karakter terlebih dahulu
+untuk memulai petualangan, masukkan nama karakter terlebih dahulu. 
 jika nama karakter tidak diisi, sistem akan otomatis menulis 'NPC' sebagai nama karakter
 
 Pilih A, B, atau C untuk setiap scene yang ditampilkan
+
 Ketik INFO untuk melihat info karakter
+
 Ketik QUIT untuk keluar dari permainan
 
 Setiap opsi pada scene akan memberikan dampak tertentu terhadap atribut karakter, dapat berupa
